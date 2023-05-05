@@ -1,4 +1,4 @@
-# RT-DETR Deploy with ONNX
+# RT-DETR Deploy with ONNX and TensorRT
 ![](./result.jpg)
 
 base on project https://github.com/PaddlePaddle/PaddleDetection/tree/develop/configs/rtdetr
